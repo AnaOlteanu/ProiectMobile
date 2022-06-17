@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="Income"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:id="@+id/income"/>
+    <item android:title="Expenses"
+        android:icon="@drawable/ic_baseline_timeline_24"
+        android:id="@+id/expenses"/>
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/profile"/>
+    <item android:title="About"
+        android:icon="@drawable/ic_round_work_24"
+        android:id="@+id/animation"/>
+
+</menu>
